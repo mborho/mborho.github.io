@@ -5,77 +5,82 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://blog.borho.net/</loc>
+  <loc>http://io.drigger.com/</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/2013/</loc>
+  <loc>http://io.drigger.com/2013/</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/2013/index.html</loc>
+  <loc>http://io.drigger.com/2013/index.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/archive.html</loc>
+  <loc>http://io.drigger.com/archive.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/categories/</loc>
+  <loc>http://io.drigger.com/categories/</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/categories/general.html</loc>
+  <loc>http://io.drigger.com/categories/general.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/categories/index.html</loc>
+  <loc>http://io.drigger.com/categories/index.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/galleries/</loc>
+  <loc>http://io.drigger.com/galleries/</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/galleries/index.html</loc>
+  <loc>http://io.drigger.com/galleries/index.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/index.html</loc>
+  <loc>http://io.drigger.com/index.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/listings/</loc>
+  <loc>http://io.drigger.com/listings/</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/listings/index.html</loc>
+  <loc>http://io.drigger.com/listings/index.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/posts/stacktrace-2.html</loc>
+  <loc>http://io.drigger.com/posts/stacktrace-2.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/posts/test.html</loc>
+  <loc>http://io.drigger.com/posts/test.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://blog.borho.net/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
+  <loc>http://io.drigger.com/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
+  <lastmod>2013-10-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/vim.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
  </url>
