@@ -70,6 +70,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://blog.borho.net/posts/test.html</loc>
+  <lastmod>2013-10-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://blog.borho.net/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
   <lastmod>2013-10-12</lastmod>
   <priority>0.5000</priority>
