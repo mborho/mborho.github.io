@@ -5,4 +5,4 @@
 .. title: Auf dem Weg in die Agrargesellschaft
 .. slug: auf-dem-weg-in-die-agrargesellschaft
 
-.. image:: /images/agrar.jpg
+.. image:: /images/agrar2.jpg

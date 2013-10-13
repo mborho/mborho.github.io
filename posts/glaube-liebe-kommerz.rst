@@ -5,7 +5,7 @@
 .. title: Glaube, Liebe, Kommerz
 .. slug: glaube-liebe-kommerz
 
-.. image:: /images/kommerzbroetchen.JPG
+.. image:: /images/kommerzbroetchen.jpg
    :scale: 50%
 
 Ecke Clemens-Schultz/Hein-Hoyer
