@@ -6,5 +6,6 @@
 .. slug: glaube-liebe-kommerz
 
 .. image:: /images/kommerzbroetchen.JPG
+   :scale: 50%
 
 Ecke Clemens-Schultz/Hein-Hoyer
