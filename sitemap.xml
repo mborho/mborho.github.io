@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://io.drigger.com/</loc>
-  <lastmod>2013-10-13</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -85,6 +85,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://io.drigger.com/index-1.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://io.drigger.com/index.html</loc>
   <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
@@ -96,6 +101,36 @@
  </url>
  <url>
   <loc>http://io.drigger.com/listings/index.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310181734-test.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310181740-test.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310181741-print-the-headline.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310182135-donkey.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310182141-donkey.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201310182143-donkey.html</loc>
   <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
