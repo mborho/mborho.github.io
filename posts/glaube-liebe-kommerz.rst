@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: moblog
 .. date: 2013/10/13 13:05:48
 .. title: Glaube, Liebe, Kommerz
 .. slug: glaube-liebe-kommerz

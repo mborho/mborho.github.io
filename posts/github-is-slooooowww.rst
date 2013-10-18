@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: coding
 .. date: 2013/10/14 12:05:35
 .. title: github is slooooowww
 .. slug: github-is-slooooowww

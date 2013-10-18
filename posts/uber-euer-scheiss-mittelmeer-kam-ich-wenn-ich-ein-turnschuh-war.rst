@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: sad
 .. date: 2013/10/12 15:09:21
 .. title: Über euer scheiß Mittelmeer käm ich, wenn ich ein Turnschuh wär.
 .. slug: uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war

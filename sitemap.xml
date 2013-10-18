@@ -16,17 +16,32 @@
  </url>
  <url>
   <loc>http://io.drigger.com/2013/index.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/archive.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/</loc>
-  <lastmod>2013-10-12</lastmod>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/coding.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/devops.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/docker.html</loc>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -36,7 +51,27 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/index.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/linux.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/moblog.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/nikola.html</loc>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/sad.html</loc>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,12 +81,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/galleries/index.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,32 +96,37 @@
  </url>
  <url>
   <loc>http://io.drigger.com/listings/index.html</loc>
-  <lastmod>2013-10-12</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/auf-dem-weg-in-die-agrargesellschaft.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/conrad-internet-terminal.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/github-is-slooooowww.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/glaube-liebe-kommerz.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/gross-register-tons.html</loc>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/stacktrace-2.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,17 +136,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/things-i-like-1.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/vim.html</loc>
-  <lastmod>2013-10-17</lastmod>
+  <lastmod>2013-10-18</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

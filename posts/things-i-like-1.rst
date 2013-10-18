@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: coding
 .. date: 2013/10/14 12:32:23
 .. title: Things I like (1)
 .. slug: things-i-like-1
