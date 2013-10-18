@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: music
 .. date: 2013/10/18 21:43:20
 .. title: Donkey
 .. slug: 201310182143-donkey
