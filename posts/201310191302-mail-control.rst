@@ -1,0 +1,9 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/10/19 13:02:14
+.. title: mail control
+.. slug: 201310191302-mail-control
+
+Wrote a little script to post to this little boy via email. Works.
+

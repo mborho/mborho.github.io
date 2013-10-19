@@ -1,0 +1,9 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/10/19 13:14:29
+.. title: mail control
+.. slug: 201310191314-mail-control
+
+Wrote a little script to fill this weblog per email. An interface I'm used to.
+
