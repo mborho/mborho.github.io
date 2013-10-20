@@ -1,0 +1,9 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2013/10/19 14:18:05
+.. title: MIT bildchen
+.. slug: 201310191418-mit-bildchen
+
+.. image:: /images/IMG_20131017_135639.jpg
+
