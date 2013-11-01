@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: moblog
 .. date: 2013/10/24 18:07:04
 .. title: sunset setted
 .. slug: 201310241807-sunset-setted

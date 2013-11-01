@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: nikola 
 .. date: 2013/10/19 13:14:29
 .. title: mail control
 .. slug: 201310191314-mail-control
