@@ -106,12 +106,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-08</lastmod>
+  <lastmod>2013-11-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-08</lastmod>
+  <lastmod>2013-11-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -256,7 +256,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311082144-dom.html</loc>
-  <lastmod>2013-11-08</lastmod>
+  <lastmod>2013-11-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311091705-palmaille.html</loc>
+  <lastmod>2013-11-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
