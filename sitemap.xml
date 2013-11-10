@@ -106,12 +106,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-09</lastmod>
+  <lastmod>2013-11-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-09</lastmod>
+  <lastmod>2013-11-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -261,7 +261,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311091705-palmaille.html</loc>
-  <lastmod>2013-11-09</lastmod>
+  <lastmod>2013-11-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311101609-haus-mit-ei.html</loc>
+  <lastmod>2013-11-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
