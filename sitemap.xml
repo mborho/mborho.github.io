@@ -106,12 +106,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-10</lastmod>
+  <lastmod>2013-11-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-10</lastmod>
+  <lastmod>2013-11-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -271,7 +271,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311101837-survivor.html</loc>
-  <lastmod>2013-11-10</lastmod>
+  <lastmod>2013-11-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311122358-dieser-zug-fahrt-uber-altona-weiter-nach-spitzbergen.html</loc>
+  <lastmod>2013-11-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
