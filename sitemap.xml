@@ -106,12 +106,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-12</lastmod>
+  <lastmod>2013-11-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-12</lastmod>
+  <lastmod>2013-11-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -276,7 +276,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311122358-dieser-zug-fahrt-uber-altona-weiter-nach-spitzbergen.html</loc>
-  <lastmod>2013-11-12</lastmod>
+  <lastmod>2013-11-17</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311161540-fit4theeuphemisms.html</loc>
+  <lastmod>2013-11-16</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311172151-jakobsleiter.html</loc>
+  <lastmod>2013-11-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
