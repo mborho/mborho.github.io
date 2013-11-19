@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://io.drigger.com/</loc>
-  <lastmod>2013-10-19</lastmod>
+  <lastmod>2013-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,12 +106,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-17</lastmod>
+  <lastmod>2013-11-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/index-3.html</loc>
+  <lastmod>2013-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-17</lastmod>
+  <lastmod>2013-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -286,7 +291,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311172151-jakobsleiter.html</loc>
-  <lastmod>2013-11-17</lastmod>
+  <lastmod>2013-11-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201311182340-whatever.html</loc>
+  <lastmod>2013-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
