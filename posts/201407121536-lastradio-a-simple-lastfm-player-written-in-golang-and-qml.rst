@@ -47,6 +47,10 @@ it, I'm especially curious about using it on a server. Its primitives,
 interfaces, packaging and tools are fun to use. And channels and goroutines are just a
 great way to build something on top of the internet!
 
+Sourcecode: https://gitorious.org/lastradio/lastradio
+
+PPA: https://launchpad.net/~martin-borho/+archive/ubuntu/lastradio
+
 .. _Go Programming Language:
 .. _Go:
 .. _Golang: http://golang.org
