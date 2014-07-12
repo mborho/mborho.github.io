@@ -1,6 +1,6 @@
 .. link: 
 .. description: 
-.. tags: 
+.. tags: go, golang, last.fm, spotify
 .. date: 2014/07/12 15:36:17
 .. title: LastRadio - a simple Last.fm player written in Golang and QML
 .. slug: 201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml

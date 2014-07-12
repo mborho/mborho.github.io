@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>Stacktrace (golang)</title><link>http://io.drigger.com/</link><description>this site just renders by accident</description><atom:link href="http://io.drigger.com/categories/golang.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sat, 12 Jul 2014 16:48:43 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>LastRadio - a simple Last.fm player written in Golang and QML</title><link>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</link><description>&lt;p&gt;&lt;a class="reference external" href="https://gitorious.org/lastradio/lastradio"&gt;LastRadio&lt;/a&gt; is a simple
+Last.fm radio player written in &lt;a class="reference external" href="http://golang.org"&gt;Golang&lt;/a&gt; and &lt;a class="reference external" href="http://qt-project.org/doc/qt-5/qtqml-index.html"&gt;QML&lt;/a&gt;, using Spotify
+(Premium) as music source.&lt;/p&gt;
+&lt;img alt="/images/lastradio3.png" src="http://io.drigger.com/images/lastradio3.png"&gt;&lt;p&gt;I've listened a lot to &lt;a class="reference external" href="http://last.fm"&gt;Last.fm&lt;/a&gt; radio and I was quite
+upset as they stopped their streaming service. Same time I've started
+getting interested in the &lt;a class="reference external" href="http://golang.org"&gt;Go Programming Language&lt;/a&gt;, and stumbling over
+the &lt;a class="reference external" href="https://github.com/go-qml/qml"&gt;QML bindings for Go&lt;/a&gt; led me to the
+idea to build a simple music player, using the &lt;a class="reference external" href="http://www.lastfm.de/api"&gt;Last-fm-API&lt;/a&gt; as data source and &lt;a class="reference external" href="http://stotify.com"&gt;Spotify&lt;/a&gt; as music source. Which turned out working just fine!&lt;/p&gt;
+&lt;p&gt;Doing things in QML is always fun, and having packages written in Go
+available for both &lt;a class="reference external" href="https://github.com/shkh/lastfm-go"&gt;Last.fm-API&lt;/a&gt;
+and &lt;a class="reference external" href="https://github.com/op/go-libspotify"&gt;Libspotify&lt;/a&gt; reduced the work
+only on getting the UI done and building some logic to get the sound
+served...&lt;/p&gt;
+&lt;p&gt;After getting the whole thing packaged as .deb and making it available
+in a &lt;a class="reference external" href="https://launchpad.net/~martin-borho/+archive/ubuntu/lastradio"&gt;Lastradio-PPA&lt;/a&gt;, it's
+now ready to get installed on Ubuntu 14.04! (64-bit only atm, sorry).&lt;/p&gt;
+&lt;pre class="literal-block"&gt;
+sudo add-apt-repository ppa:martin-borho/lastradio
+sudo apt-get update
+sudo apt-get install lastradio
+&lt;/pre&gt;
+&lt;p&gt;It's in a"pre-beta" state for now. But having all the things in place,
+I've started to reiterate over it already. Some nasty quirks left, but
+it already served me countless hours with my favourite music, which is
+exactly what was intended!&lt;/p&gt;
+&lt;p&gt;So overall I'm impressed by &lt;a class="reference external" href="http://golang.org"&gt;Go&lt;/a&gt; and it will be not the last time I've used
+it, I'm especially curious about using it on a server. Its primitives,
+interfaces, packaging and tools are fun to use. And channels and goroutines are just a
+great way to build something on top of the internet!&lt;/p&gt;</description><author></author><category>go</category><category>golang</category><category>last.fm</category><category>spotify</category><guid>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</guid><pubDate>Sat, 12 Jul 2014 15:36:17 GMT</pubDate></item></channel></rss>
