@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://io.drigger.com/</loc>
-  <lastmod>2013-11-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -16,12 +16,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/2013/index.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/2014/</loc>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/2014/index.html</loc>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/archive.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,17 +41,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/coding.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/devops.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/docker.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -51,42 +61,42 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/hh.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/index.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/linux.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/moblog.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/music.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/nikola.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/sad.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/tv.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,27 +106,27 @@
  </url>
  <url>
   <loc>http://io.drigger.com/galleries/index.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-1.html</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2013-11-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2013-11-26</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2013-11-26</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -126,7 +136,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/listings/index.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,7 +151,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310182143-donkey.html</loc>
-  <lastmod>2013-10-19</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -156,7 +166,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310191314-mail-control.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -186,22 +196,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310201724-spitz.html</loc>
-  <lastmod>2013-10-23</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310231017-lampedusa-in-hamburg.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310241807-sunset-setted.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310241958-der-fuhrer-war-ein-armes-schwein.html</loc>
-  <lastmod>2013-10-28</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -216,72 +226,72 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310281700-rough.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310301628-mondverschworung.html</loc>
-  <lastmod>2013-11-01</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311011449-linked-and-named-docker-containers.html</loc>
-  <lastmod>2013-11-03</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311031247-kommunikation-schutzen.html</loc>
-  <lastmod>2013-11-03</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311031808-heucheln-fur-fortgeschrittene.html</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051004-sleaford-mods.html</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051232-allet-wesentliche.html</loc>
-  <lastmod>2013-11-05</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051615-samtweich.html</loc>
-  <lastmod>2013-11-07</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311071520-horror-szenario.html</loc>
-  <lastmod>2013-11-08</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311082144-dom.html</loc>
-  <lastmod>2013-11-09</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311091705-palmaille.html</loc>
-  <lastmod>2013-11-10</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311101609-haus-mit-ei.html</loc>
-  <lastmod>2013-11-10</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311101837-survivor.html</loc>
-  <lastmod>2013-11-12</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311122358-dieser-zug-fahrt-uber-altona-weiter-nach-spitzbergen.html</loc>
-  <lastmod>2013-11-17</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -291,47 +301,67 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311172151-jakobsleiter.html</loc>
-  <lastmod>2013-11-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311182340-whatever.html</loc>
-  <lastmod>2013-11-26</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311261612-law-and-order.html</loc>
-  <lastmod>2013-11-26</lastmod>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201407121355-lastradio-lastfm-player-written-go-and-qml.html</loc>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201407121531-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201407121534-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
+  <lastmod>2014-07-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/auf-dem-weg-in-die-agrargesellschaft.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/conrad-internet-terminal.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/github-is-slooooowww.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/glaube-liebe-kommerz.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/gross-register-tons.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/stacktrace-2.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -341,17 +371,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/things-i-like-1.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/vim.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2014-07-12</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
