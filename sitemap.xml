@@ -141,12 +141,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2014-07-12</lastmod>
+  <lastmod>2014-08-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-08-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -351,7 +351,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-08-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408141542-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
+  <lastmod>2014-08-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408141550-a-new-care-package-from-finland-arrived.html</loc>
+  <lastmod>2014-08-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
