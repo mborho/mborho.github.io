@@ -141,12 +141,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2014-08-14</lastmod>
+  <lastmod>2014-08-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-08-14</lastmod>
+  <lastmod>2014-08-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -361,7 +361,32 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201408141550-a-new-care-package-from-finland-arrived.html</loc>
-  <lastmod>2014-08-14</lastmod>
+  <lastmod>2014-08-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408201503-hang-em-high.html</loc>
+  <lastmod>2014-08-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408201517-hang-em-high.html</loc>
+  <lastmod>2014-08-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408201524-hang-em-high.html</loc>
+  <lastmod>2014-08-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408201525-hang-em-high.html</loc>
+  <lastmod>2014-08-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201408201530-hang-em-high.html</loc>
+  <lastmod>2014-08-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
