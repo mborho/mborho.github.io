@@ -141,12 +141,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -386,7 +386,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201408201530-hang-em-high.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-09-16</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201409161520-working.html</loc>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
