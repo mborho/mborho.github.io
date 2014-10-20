@@ -146,12 +146,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-10-17</lastmod>
+  <lastmod>2014-10-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-10-17</lastmod>
+  <lastmod>2014-10-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -421,7 +421,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410172359-sudden-infant.html</loc>
-  <lastmod>2014-10-17</lastmod>
+  <lastmod>2014-10-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410201306-reeperbahn.html</loc>
+  <lastmod>2014-10-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410201311-reeperbahn.html</loc>
+  <lastmod>2014-10-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410201314-reeperbahn.html</loc>
+  <lastmod>2014-10-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
