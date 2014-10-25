@@ -36,22 +36,27 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/</loc>
-  <lastmod>2014-07-12</lastmod>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/asyncio.html</loc>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/coding.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/devops.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/docker.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,62 +66,72 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/go.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/golang.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/hh.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/index.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/lastfm.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/linux.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/moblog.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/music.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/nikola.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/python.html</loc>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/sad.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/spotify.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/tv.html</loc>
-  <lastmod>2014-08-21</lastmod>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/categories/xmpp.html</loc>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -441,6 +456,16 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410251607-current-state-of-the-art.html</loc>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410252029-using-thread-based-sleekxmpp-in-conjunction-with-the-asynio-event-loop-in-python-3.html</loc>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asynio-event-loop-in-python-3.html</loc>
   <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
