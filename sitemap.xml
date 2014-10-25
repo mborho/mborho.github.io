@@ -146,12 +146,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-10-20</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-10-20</lastmod>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -436,7 +436,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410201314-reeperbahn.html</loc>
-  <lastmod>2014-10-20</lastmod>
+  <lastmod>2014-10-25</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201410251607-current-state-of-the-art.html</loc>
+  <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
