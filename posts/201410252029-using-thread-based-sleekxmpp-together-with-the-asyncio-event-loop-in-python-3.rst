@@ -2,8 +2,8 @@
 .. description: 
 .. tags: coding, python, asyncio, xmpp 
 .. date: 2014/10/25 20:29:04
-.. title: Using thread-based SleekXMPP together with the asynio event loop in Python 3
-.. slug: 201410252029-using-thread-based-sleekxmpp-together-with-the-asynio-event-loop-in-python-3
+.. title: Using thread-based SleekXMPP together with the asyncio event loop in Python 3
+.. slug: 201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3
 
 Some months ago I've started to migrate my `push-based feed/twitter reader <https://github.com/mborho/silozippr>`_ from Node.js to Python3. As I also wanted to have integration of `Superfeedr <https://superfeedr.com>`_ and their `XMPP PubSub <http://documentation.superfeedr.com/subscribers.html#xmpp-pubsub>`_ service, a XMPP module was needed which would play nicely with the new `asyncio <https://docs.python.org/3/library/asyncio.html#module-asyncio>`_ module of Python3.
 

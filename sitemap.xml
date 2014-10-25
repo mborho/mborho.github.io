@@ -460,7 +460,7 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://io.drigger.com/posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asynio-event-loop-in-python-3.html</loc>
+  <loc>http://io.drigger.com/posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3.html</loc>
   <lastmod>2014-10-25</lastmod>
   <priority>0.5000</priority>
  </url>
