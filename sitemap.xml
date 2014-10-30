@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-10-28</lastmod>
+  <lastmod>2014-10-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-10-28</lastmod>
+  <lastmod>2014-10-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -465,6 +465,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://io.drigger.com/posts/201410301134-vaz.html</loc>
+  <lastmod>2014-10-30</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://io.drigger.com/posts/auf-dem-weg-in-die-agrargesellschaft.html</loc>
   <lastmod>2014-08-21</lastmod>
   <priority>0.5000</priority>
@@ -496,7 +501,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/swans.html</loc>
-  <lastmod>2014-10-28</lastmod>
+  <lastmod>2014-10-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
