@@ -7,6 +7,6 @@
 
 .. image:: /images/15096694473_e48485ec61_b.jpg
 
-`Flickr Album <https://www.flickr.com/photos/51035725191@N01/>`_
+`Flickr Album <https://www.flickr.com/photos/51035725191@N01/sets/72157648734652410/>`_
 
 
