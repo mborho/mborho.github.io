@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-11-05</lastmod>
+  <lastmod>2014-11-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-11-05</lastmod>
+  <lastmod>2014-11-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -471,7 +471,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411051323-neue-kamera-ohne-blitz.html</loc>
-  <lastmod>2014-11-05</lastmod>
+  <lastmod>2014-11-06</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201411062236-relax.html</loc>
+  <lastmod>2014-11-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
