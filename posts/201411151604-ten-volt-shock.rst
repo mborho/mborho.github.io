@@ -1,0 +1,9 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2014/11/15 16:04:03
+.. title: Ten Volt Shock
+.. slug: 201411151604-ten-volt-shock
+
+.. image:: /images/tvs.jpg
+

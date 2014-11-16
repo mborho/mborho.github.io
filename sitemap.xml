@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://io.drigger.com/</loc>
-  <lastmod>2014-10-17</lastmod>
+  <lastmod>2014-11-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-11-13</lastmod>
+  <lastmod>2014-11-15</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/index-5.html</loc>
+  <lastmod>2014-11-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-11-13</lastmod>
+  <lastmod>2014-11-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -486,7 +491,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411132349-hank-wood-and-the-hammerheads.html</loc>
-  <lastmod>2014-11-13</lastmod>
+  <lastmod>2014-11-15</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201411151604-ten-volt-shock.html</loc>
+  <lastmod>2014-11-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
