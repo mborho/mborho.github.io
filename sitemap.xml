@@ -156,7 +156,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2014-12-16</lastmod>
+  <lastmod>2014-12-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -171,7 +171,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-12-16</lastmod>
+  <lastmod>2014-12-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -521,7 +521,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412161837-grammar-wanker-lovely-packaged.html</loc>
-  <lastmod>2014-12-16</lastmod>
+  <lastmod>2014-12-17</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201412171129-und-da-wurde-mir-klar-dass-wir-hinter-mcdonalds-gefoltert-werden.html</loc>
+  <lastmod>2014-12-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
