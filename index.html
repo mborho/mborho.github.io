@@ -24,6 +24,15 @@
         <div class="row">
             
         <div class="postbox">
+        <h1><a href="posts/201412211720-einmal-erster-platz.html">Einmal erster Platz!</a>
+        <small>  
+             Posted: <time class="published" datetime="2014-12-21T17:20:03">21.12.2014 17:20</time></small></h1>
+        <hr><img alt="/images/20141221_001.jpg" src="images/20141221_001.jpg"><p>
+        <a href="posts/201412211720-einmal-erster-platz.html#disqus_thread" data-disqus-identifier="cache/posts/201412211720-einmal-erster-platz.html">Comments</a>
+
+
+        </p></div>
+        <div class="postbox">
         <h1><a href="posts/201412201109-what-fresh-hell-is-this.html">what fresh hell is this?</a>
         <small>  
              Posted: <time class="published" datetime="2014-12-20T11:09:03">20.12.2014 11:09</time></small></h1>
@@ -162,106 +171,6 @@
              Posted: <time class="published" datetime="2014-10-28T00:39:03">28.10.2014 00:39</time></small></h1>
         <hr><img alt="/images/20141027_012.jpg" src="images/20141027_012.jpg"><p>
         <a href="posts/swans.html#disqus_thread" data-disqus-identifier="cache/posts/swans.html">Comments</a>
-
-
-        </p></div>
-        <div class="postbox">
-        <h1><a href="posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3.html">Using thread-based SleekXMPP together with the asyncio event loop in Python 3</a>
-        <small>  
-             Posted: <time class="published" datetime="2014-10-25T20:29:04">25.10.2014 20:29</time></small></h1>
-        <hr><p>Some months ago I've started to migrate my <a class="reference external" href="https://github.com/mborho/silozippr">push-based feed/twitter reader</a> from Node.js to Python3. As I also wanted to have integration of <a class="reference external" href="https://superfeedr.com">Superfeedr</a> and their <a class="reference external" href="http://documentation.superfeedr.com/subscribers.html#xmpp-pubsub">XMPP PubSub</a> service, a XMPP module was needed which would play nicely with the new <a class="reference external" href="https://docs.python.org/3/library/asyncio.html#module-asyncio">asyncio</a> module of Python3.</p>
-<p>Problem:  <a class="reference external" href="https://github.com/fritzy/SleekXMPP">SleekXMPP</a> had support of all needed plugins, but is thread-based. Which isn't good, if you want to build your app in an asynchronous manner with the asyncio event loop.</p>
-<p>Fortunately asyncio gives the possibility to run threads in an <a class="reference external" href="https://docs.python.org/3/library/asyncio-eventloop.html#executor">Executor</a>, which I did.</p>
-<p>In hope, somebody might find this helpfull,  I've rewritten the EchoBot-Example of SleekXMPP, running now in an asyncio executor. As you can see (<a class="reference external" href="https://gist.github.com/mborho/55be89eead0b0e19e051">gist here</a>), the main thread with the event loop and the XMPP client, running in an executor, are communicating over a queue. So you can use your XMPP client not only for receiving messages, but also for sending. With the possibility to do work in the event loop!</p>
-<script src="https://gist.github.com/55be89eead0b0e19e051.js"></script><noscript><pre class="literal-block">
-#!/usr/bin/env python
-import asyncio
-import logging
-from queue import Queue, Empty
-from sleekxmpp import ClientXMPP
-from sleekxmpp.xmlstream import scheduler
-from sleekxmpp.exceptions import IqError, IqTimeout
-
-# logging
-logging.basicConfig(level=logging.INFO,
-    format='%(asctime)s - %(threadName)s - %(name)s - %(levelname)s - %(message)s')
-
-# your xmpp user
-XMPP_JID = "your@jabberuser.com"
-XMPP_PWD = "pwd"
-
-# queue for xmpp client thread
-xmpp_queue = Queue()
-
-class EchoBot(ClientXMPP):
-
-    def __init__(self, jid, password, loop, msg_callback, queue):
-        ClientXMPP.__init__(self, jid, password)
-
-        # asyncio loop and callback
-        self.loop = loop
-        self.msg_callback = msg_callback
-        self.queue = queue
-
-        self.add_event_handler("session_start", self.session_start)
-        self.add_event_handler("message", self.message)
-
-    def send_reply(self, msg):
-        msg.send()
-
-    def from_main_thread_nonblocking(self):
-        try:
-            msg = self.queue.get(False) #doesn't block
-            logging.info("got msg from main: %s" % msg)
-            # schedule the reply
-            scheduler.Task("SEND REPLY", 0, self.send_reply, (msg,)).run()
-        except Empty:
-            pass
-
-    def session_start(self, event):
-        self.send_presence()
-        # start a scheduler to check the queue
-        self.scheduler.add("asyncio_queue", 2, self.from_main_thread_nonblocking,
-            repeat=True, qpointer=self.event_queue)
-
-    def message(self, msg):
-        if msg['type'] in ('chat', 'normal'):
-            # msg received, call the msg callback in the main thread with the event loop
-            self.loop.call_soon_threadsafe(self.msg_callback, msg)
-
-def start_sleekxmpp(xmpp_jid, xmpp_pwd, loop, msg_callback, xmpp_queue):
-    xmpp = EchoBot(xmpp_jid, xmpp_pwd, loop, msg_callback, xmpp_queue)
-    xmpp.connect()
-    xmpp.process() # non-blocking!
-
-@asyncio.coroutine
-def do_something_async(msg):
-    xmpp_queue.put(msg)
-    return True
-
-def xmpp_callback(msg):
-    msg.reply("I SAW THE LOOP: %(body)s" % msg)
-    asyncio.Task(do_something_async(msg))
-
-if __name__ == '__main__':
-
-    loop = asyncio.get_event_loop()
-
-    # call the method to start the EchoBot, use xmpp_callback
-    # and xmpp_queue to communicate
-    loop.run_in_executor(None, start_sleekxmpp, XMPP_JID, XMPP_PWD,
-                         loop, xmpp_callback, xmpp_queue)
-
-    loop.run_forever()
-    loop.close()
-
-
-</pre>
-</noscript>
-            
-        
-    <p>
-        <a href="posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3.html#disqus_thread" data-disqus-identifier="cache/posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3.html">Comments</a>
 
 
         </p></div>
