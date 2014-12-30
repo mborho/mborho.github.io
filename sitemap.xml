@@ -156,12 +156,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2014-12-24</lastmod>
+  <lastmod>2014-12-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2014-11-15</lastmod>
+  <lastmod>2014-12-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -171,7 +171,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2014-12-24</lastmod>
+  <lastmod>2014-12-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -541,7 +541,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412242113-me.html</loc>
-  <lastmod>2014-12-24</lastmod>
+  <lastmod>2014-12-30</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201412301612-winter.html</loc>
+  <lastmod>2014-12-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
