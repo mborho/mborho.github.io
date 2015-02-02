@@ -1,0 +1,9 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2015/02/02 12:22:03
+.. title: FOSDEM
+.. slug: 201502021222-fosdem
+
+.. image:: /images/PANO_20150131_094214.jpg
+
