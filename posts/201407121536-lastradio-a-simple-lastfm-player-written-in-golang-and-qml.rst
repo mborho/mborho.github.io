@@ -29,7 +29,7 @@ served...
 After getting the whole thing packaged as .deb and making it available
 in a `Lastradio-PPA
 <https://launchpad.net/~martin-borho/+archive/ubuntu/lastradio>`_, it's
-now ready to get installed on Ubuntu 14.04! (64-bit-desktop only atm, sorry).
+now ready to get installed on Ubuntu 14.04 and following or Mint! (64-bit-desktop only atm, sorry).
 
 ::
 
