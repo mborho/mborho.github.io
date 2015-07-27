@@ -5,7 +5,7 @@
 .. title: LastRadio - a simple Last.fm player written in Golang and QML
 .. slug: 201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml
 
-`LastRadio <https://gitorious.org/lastradio/lastradio>`_ is a simple
+`LastRadio <https://github.com/mborho/lastradio>`_ is a simple
 Last.fm radio player written in `Golang`_ and `QML
 <http://qt-project.org/doc/qt-5/qtqml-index.html>`_, using Spotify
 (Premium) as music source.
@@ -47,7 +47,7 @@ it, I'm especially curious about using it on a server. Its primitives,
 interfaces, packaging and tools are fun to use. And channels and goroutines are just a
 great way to build something on top of the internet!
 
-Sourcecode: https://gitorious.org/lastradio/lastradio
+Sourcecode: https://github.com/mborho/lastradio
 
 PPA: https://launchpad.net/~martin-borho/+archive/ubuntu/lastradio
 

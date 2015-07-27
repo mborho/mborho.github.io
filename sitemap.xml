@@ -76,12 +76,12 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/go.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/golang.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,7 +96,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/lastfm.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/spotify.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -166,7 +166,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -386,7 +386,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2015-07-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
