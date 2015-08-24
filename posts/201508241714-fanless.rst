@@ -1,0 +1,12 @@
+.. link: 
+.. description: 
+.. tags: 
+.. date: 2015/08/24 17:14:03
+.. title: Fanless
+.. slug: 201508241714-fanless
+
+.. image:: /images/20150824_007.jpg
+
+Meine neue "Workstation", ein lüfterloses NUC mit Broadwell i7 und 4k. Kein Lüfter, absolut geräuschlos. Top!
+
+Gekauft bei `Cirrus7 <http://www.cirrus7.com/>`_ - super Idee, super Service, sehr zu empfehlen!
