@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://io.drigger.com/</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -16,7 +16,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/2013/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/2014/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -36,12 +36,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/2015/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/2016/</loc>
+  <lastmod>2016-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/2016/index.html</loc>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/archive.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -51,22 +61,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/asyncio.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/coding.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/devops.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/docker.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -76,72 +86,72 @@
  </url>
  <url>
   <loc>http://io.drigger.com/categories/go.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/golang.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/hh.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/lastfm.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/linux.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/moblog.html</loc>
-  <lastmod>2015-09-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/music.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/nikola.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/python.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/sad.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/spotify.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/tv.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/categories/xmpp.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -151,27 +161,27 @@
  </url>
  <url>
   <loc>http://io.drigger.com/galleries/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-1.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-2.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-3.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/index-4.html</loc>
-  <lastmod>2015-09-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -181,7 +191,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/index.html</loc>
-  <lastmod>2015-09-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -191,7 +201,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/listings/index.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -206,7 +216,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310182143-donkey.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -221,7 +231,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310191314-mail-control.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -251,22 +261,22 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310201724-spitz.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310231017-lampedusa-in-hamburg.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310241807-sunset-setted.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310241958-der-fuhrer-war-ein-armes-schwein.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -281,72 +291,72 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310281700-rough.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201310301628-mondverschworung.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311011449-linked-and-named-docker-containers.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311031247-kommunikation-schutzen.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311031808-heucheln-fur-fortgeschrittene.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051004-sleaford-mods.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051232-allet-wesentliche.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311051615-samtweich.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311071520-horror-szenario.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311082144-dom.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311091705-palmaille.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311101609-haus-mit-ei.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311101837-survivor.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311122358-dieser-zug-fahrt-uber-altona-weiter-nach-spitzbergen.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -356,17 +366,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311172151-jakobsleiter.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311182340-whatever.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201311261612-law-and-order.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -386,7 +396,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201407121536-lastradio-a-simple-lastfm-player-written-in-golang-and-qml.html</loc>
-  <lastmod>2015-07-27</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -396,7 +406,7 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201408141550-a-new-care-package-from-finland-arrived.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -421,37 +431,37 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201408201530-hang-em-high.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201409161520-working.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410040358-kurt-2014.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410040359-hammerhead-2014.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410041638-bargeld-lacht.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410141255-farbe-blau.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410172359-sudden-infant.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -466,152 +476,157 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410201314-reeperbahn.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410251607-current-state-of-the-art.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410252029-using-thread-based-sleekxmpp-together-with-the-asyncio-event-loop-in-python-3.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201410301134-vaz.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411051323-neue-kamera-ohne-blitz.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411062236-relax.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411122244-ed-schraders-music-beat.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411132349-hank-wood-and-the-hammerheads.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201411151604-ten-volt-shock.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412041013-next-up-weisheitszahn.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412101107-the-calico-wall-im-a-living-sickness-1967.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412112355-the-stabs-split-lips.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412121612-liars-scissor.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412161837-grammar-wanker-lovely-packaged.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412171129-und-da-wurde-mir-klar-dass-wir-hinter-mcdonalds-gefoltert-werden.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412201109-what-fresh-hell-is-this.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412211720-einmal-erster-platz.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412242113-me.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201412301612-winter.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201501061103-das-feuer.html</loc>
-  <lastmod>2015-02-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201502021222-fosdem.html</loc>
-  <lastmod>2015-08-24</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/201508241714-fanless.html</loc>
-  <lastmod>2015-09-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/20150902-rubjerg-knude.html</loc>
-  <lastmod>2015-09-02</lastmod>
+  <lastmod>2016-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://io.drigger.com/posts/201601211508-der-herr-karl.html</loc>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/auf-dem-weg-in-die-agrargesellschaft.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/conrad-internet-terminal.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/github-is-slooooowww.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/glaube-liebe-kommerz.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/gross-register-tons.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/stacktrace-2.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/swans.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -621,17 +636,17 @@
  </url>
  <url>
   <loc>http://io.drigger.com/posts/things-i-like-1.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/uber-euer-scheiss-mittelmeer-kam-ich-wenn-ich-ein-turnschuh-war.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://io.drigger.com/posts/vim.html</loc>
-  <lastmod>2015-01-06</lastmod>
+  <lastmod>2016-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
